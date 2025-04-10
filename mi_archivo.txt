@@ -1,0 +1,4 @@
+Hola, soy el archivo.txt
+Hola, soy el archivo.txt pero en su segunda linea
+Anexando informacion ... 
+Saliendo de anexar informacion
